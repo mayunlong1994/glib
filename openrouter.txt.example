@@ -1,0 +1,3 @@
+把你的 OpenRouter API key 粘到这一行,替换掉本句。
+然后把本文件改名为 openrouter.txt(已被 .gitignore 排除,不会进 git)。
+key 形如 sk-or-v1-xxxxxxxx...,在 https://openrouter.ai/keys 申请。

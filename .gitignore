@@ -1,0 +1,11 @@
+# 绝不提交 key
+openrouter.txt
+
+# 运行产物
+responses/
+clouds/
+analysis.md
+
+# Python
+__pycache__/
+*.pyc
